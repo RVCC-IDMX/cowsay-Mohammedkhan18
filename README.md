@@ -2,10 +2,9 @@
 ## Cows are funny
 The background color is `#ffffff` for light mode and `#000000` for dark mode.
 
- __________________________________________
-/ What did the grape say when it got stepp \
-\ ed on? Nothing, it just let out a wine!  /
- ------------------------------------------
+ _________________________________________________________________________________
+ < What did the grape say when it got stepped on? Nothing, it just let out a wine! >
+ ---------------------------------------------------------------------------------
        \
         \
          \  _||
