@@ -1,0 +1,21 @@
+{
+  "name": "cowsay-mohammedkhan18",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RVCC-IDMX/cowsay-Mohammedkhan18.git"
+  },
+  "keywords": [],
+  "author": "Mohammed Khan <g00305549@stu.raritanval.edu> (https://github.com/mohammedkhan18)",
+  "license": "MIT",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/RVCC-IDMX/cowsay-Mohammedkhan18/issues"
+  },
+  "homepage": "https://github.com/RVCC-IDMX/cowsay-Mohammedkhan18#readme"
+}
